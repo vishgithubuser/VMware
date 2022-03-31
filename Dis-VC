@@ -1,0 +1,17 @@
+function Dis-VC{
+param(
+[string] $vcenter_server
+)
+if(!($vcenter_server)){
+    try{
+	    Disconnect-VIServer * -Confirm:$false
+        Write-Host "$(Get-TimeStamp) : Disconncted"
+    }
+    catch{
+	    Write-Host $_
+    }
+    }
+    else{
+    Disconnect-VIServer -Server $vcenter_server -confirm:$FALSE
+    }
+}
