@@ -1,1 +1,0 @@
-ServerName,VM,Powerstate,CPUs,Sockets,Coresp/s,HotAdd,Recommended_Cores,Recommended_Mem,RecommendedMemMB,Memory,RecommendedVMSockets,RecommendedCoresPerSocket,MaintenanceWindow,StartTime,PendingReboot,VMCPUSocket,VMCPUCores,VMMemory,VMPowerSTate,VMPingTest,RDPPortListening,Processed,Vcenter
