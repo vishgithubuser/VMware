@@ -1,1 +1,1 @@
-Powershell /PowerCli Functions /Scripts 
+VMware Management using Ansible, GIT, Jenkins,
