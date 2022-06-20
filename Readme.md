@@ -1,1 +1,1 @@
-VMware Management using Ansible, GIT, Jenkins,
+VMware Management using Ansible, GIT, Jenkins  - TBD
