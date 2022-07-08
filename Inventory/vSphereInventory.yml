@@ -1,0 +1,10 @@
+plugin: community.vmware.vmware_host_inventory
+strict: False
+validate_certs: False
+properties: 
+  - name
+  - hardware.systemInfo.Vendor
+keyed_groups:
+  key: hardware.systemInfo.vendor
+
+  
